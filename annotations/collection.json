@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://ValeS85.github.io/Test-IIIF-Valen/annotations/cb5a043c9e05b236dd0791654df8a2a5.json" ],
+  "@id" : "https://ValeS85.github.io/Test-IIIF-Valen/annotations/collection.json",
+  "label" : "All annotations loaded in ValeS85/Test-IIIF-Valen project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
