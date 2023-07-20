@@ -1,0 +1,13 @@
+{
+  "id" : "https://ValeS85.github.io/Test-IIIF-Valen/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in ValeS85/Test-IIIF-Valen project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://ValeS85.github.io/Test-IIIF-Valen/manifests/manifest.json",
+    "label" : "Guillaume Bottazzi, Polyptyque, 2015, La Défense, Paris"
+  } ]
+}
