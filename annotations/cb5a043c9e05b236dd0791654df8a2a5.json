@@ -1,0 +1,76 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Public Art",
+      "@type" : "oa:Tag",
+      "chars" : "Public Art"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Bottazzi, Polyptyque",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Bottazzi, Polyptyque</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/140093255",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-07-20T17:06:51",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1689872811452",
+    "dcterms:modified" : "2023-07-20T17:06:51",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://3999b9e2-3087-4bfd-8f0b-80b2a37c5787"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1,60,493,226"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3.45174,138.87399l87.26542,-79.28954l376.27346,164.67828l26.74263,61.46113l-492.62735,-5.16086l1.87668,-142.15818v0z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_63081ff8-80a6-49cf-ab6c-ea0d7523f2c5\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://b6c235d3-7c3b-4980-aedf-0558374c4b81"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "La D&eacute;fense, Paris",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>La D&eacute;fense, Paris</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/140093255",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-07-20T17:07:14",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1689872834338",
+    "dcterms:modified" : "2023-07-20T17:26:42",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ValeS85.github.io/Test-IIIF-Valen/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=388,38,8,12"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M391.92359,50.20107c0,-2.61157 1.30577,-5.2231 3.91732,-7.83466c0,-2.16347 -1.75385,-3.91732 -3.91732,-3.91732c-2.16347,0 -3.91732,1.75385 -3.91732,3.91732c2.61157,2.61157 3.91732,5.2231 3.91732,7.83466z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"pin_9f23b37c-57b6-4654-a282-d5f0b9849afe\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"4.70079\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://b6c235d3-7c3b-4980-aedf-0558374c4b81"
+    } ]
+  } ],
+  "@id" : "https://ValeS85.github.io/Test-IIIF-Valen/annotations/cb5a043c9e05b236dd0791654df8a2a5.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
