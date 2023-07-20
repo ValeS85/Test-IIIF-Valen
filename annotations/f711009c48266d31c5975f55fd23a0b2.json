@@ -1,0 +1,76 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Mirror",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Mirror</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/140093255",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-07-20T17:08:00",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1689872880222",
+    "dcterms:modified" : "2023-07-20T17:08:00",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://3999b9e2-3087-4bfd-8f0b-80b2a37c5787"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3,313,543,139"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M7.33914,312.60054l528.6193,47.92225l10.32172,58.98123l-70.77748,31.70241l-472.58713,-5.89812z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_5d088157-6926-41ab-b12e-17f57f5eb843\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://e7aa0fc6-e4de-4082-8526-461528dc6460"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Public Art",
+      "@type" : "oa:Tag",
+      "chars" : "Public Art"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Bottazzi, Polyptyque",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Bottazzi, Polyptyque</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/140093255",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-07-20T17:07:38",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1689872858806",
+    "dcterms:modified" : "2023-07-20T17:07:38",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://3999b9e2-3087-4bfd-8f0b-80b2a37c5787"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=35,151,601,276"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M43.46515,151.13941l-8.10992,154.82574l513.87399,46.44772l11.05898,71.51475l72.98928,2.94906l2.94906,-159.9866z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_d23a8567-640d-4a92-a4fc-d921c903d79b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://e7aa0fc6-e4de-4082-8526-461528dc6460"
+    } ]
+  } ],
+  "@id" : "https://ValeS85.github.io/Test-IIIF-Valen/annotations/f711009c48266d31c5975f55fd23a0b2.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
