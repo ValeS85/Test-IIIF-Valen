@@ -13,5 +13,11 @@
     "@type" : "sc:Manifest",
     "@id" : "https://ValeS85.github.io/Test-IIIF-Valen/manifests/606189manifest.json",
     "label" : "Bust of Queen Nefertiti"
+  }, {
+    "id" : "https://ValeS85.github.io/Test-IIIF-Valen/manifests/V606189.json",
+    "label" : {
+      "en" : [ "Transkribus" ]
+    },
+    "type" : "Manifest"
   } ]
 }
