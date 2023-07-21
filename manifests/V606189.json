@@ -1,0 +1,41 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://ValeS85.github.io/Test-IIIF-Valen/manifests/V606189.json",
+  "type" : "Manifest",
+  "label" : {
+    "en" : [ "Transkribus" ]
+  },
+  "items" : [ {
+    "id" : "/config/manifest-templates/blank.json/canvas/90ad2b79-c99a-4eb4-b22f-2c62c8b3c994",
+    "type" : "Canvas",
+    "height" : 720,
+    "width" : 1400,
+    "duration" : 64.062,
+    "label" : {
+      "en" : [ "Transkribus" ]
+    },
+    "summary" : {
+      "en" : [ "KI-gestützter Test für Texterkennung und Transkription" ]
+    },
+    "rights" : "http://creativecommons.org/publicdomain/zero/1.0/",
+    "navDate" : "2023-07-20T22:00:00.000Z",
+    "items" : [ {
+      "id" : "/config/manifest-templates/blank.json/canvas/90ad2b79-c99a-4eb4-b22f-2c62c8b3c994/annotation-page/310008cd-07d0-498d-9927-1eefcd19ab6d",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "/config/manifest-templates/blank.json/annotation/b61c1fc4-2e90-4f17-8bcb-33406c9fc61a",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "/config/manifest-templates/blank.json/canvas/90ad2b79-c99a-4eb4-b22f-2c62c8b3c994",
+        "body" : {
+          "id" : "https://archive.org/download/606189_202307/606189.mp4",
+          "type" : "Video",
+          "format" : "video/mp4",
+          "height" : 720,
+          "width" : 1400,
+          "duration" : 64.062
+        }
+      } ]
+    } ]
+  } ]
+}
