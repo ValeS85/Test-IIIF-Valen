@@ -1,0 +1,50 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://ValeS85.github.io/Test-IIIF-Valen/manifests/606189manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Bust of Queen Nefertiti",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Büste der Königin Nofretete\nStatue (Rundbild)\nAmenophis (Amenhotep) IV. / Echnaton (18. Dynastie -> Neues Reich -> Ägypten)",
+    "@language" : "ger"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution" : "Sandra Steiß",
+  "sequences" : [ {
+    "@id" : "http://3d1fdba5-5484-46d3-82ef-6286efbe15bf",
+    "@type" : "sc:Sequence",
+    "label" : "Normal Sequence",
+    "canvases" : [ {
+      "@id" : "http://9f6e24a0-f1ba-4c02-91cf-3b1b71bb5d56",
+      "@type" : "sc:Canvas",
+      "label" : "Nefertiti",
+      "height" : 1624,
+      "width" : 1181,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://966e8916-ebb0-48d6-928c-2de505260f1e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/606189/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/606189",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1624,
+          "width" : 1181
+        },
+        "on" : "http://9f6e24a0-f1ba-4c02-91cf-3b1b71bb5d56"
+      } ]
+    } ]
+  } ],
+  "structures" : [ ],
+  "logo" : "Staatliche Museen zu Berlin",
+  "related" : {
+    "@id" : "https://id.smb.museum/object/606189/b%C3%BCste-der-k%C3%B6nigin-nofretete",
+    "label" : "Permalink SMB"
+  }
+}
