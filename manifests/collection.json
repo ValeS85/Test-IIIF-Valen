@@ -19,5 +19,9 @@
       "en" : [ "Transkribus" ]
     },
     "type" : "Manifest"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://ValeS85.github.io/Test-IIIF-Valen/manifests/21300.json",
+    "label" : "Accession Logs of the Ägyptisches Museum und Papyrussammlung"
   } ]
 }
