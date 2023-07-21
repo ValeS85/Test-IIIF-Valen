@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://ValeS85.github.io/Test-IIIF-Valen/manifests/manifest.json",
     "label" : "Guillaume Bottazzi, Polyptyque, 2015, La Défense, Paris"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://ValeS85.github.io/Test-IIIF-Valen/manifests/606189manifest.json",
+    "label" : "Bust of Queen Nefertiti"
   } ]
 }
